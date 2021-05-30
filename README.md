@@ -1,7 +1,7 @@
 
-          GNU nano -- a simple editor, inspired by Pico
+#          GNU nano -- a simple editor, inspired by Pico
 
-Overview
+## Overview
 
     The nano project was started because of a few "problems" with the
     wonderfully easy-to-use and friendly Pico text editor.
@@ -23,7 +23,7 @@ Overview
     The nano editor is an official GNU package.  For more information on
     GNU and the Free Software Foundation, please see https://www.gnu.org/.
 
-How to compile and install nano
+## How to compile and install nano
 
     Clone the latest nano source version, then:
 
@@ -41,11 +41,11 @@ How to compile and install nano
     your home directory, rename it to ".nanorc", and then edit it
     according to your taste.
 
-Web Page
+## Web Page
 
     https://nano-editor.org/
 
-Mailing Lists
+## Mailing Lists
 
     There are three nano-related mailing-lists.
 
@@ -59,20 +59,20 @@ Mailing Lists
     To subscribe, send email to <name>-request@gnu.org with a subject
     of "subscribe", where <name> is the list you want to subscribe to.
 
-Bug Reports
+## Bug Reports
 
     To report a bug, please file a description of the problem on nano's
     bug tracker (https://savannah.gnu.org/bugs/?group=nano -- hover on
     "Bugs", then click "Submit new").  The issue may have already been
     reported, so please look first.
 
-Current Status
+## Current Status
 
     Since version 2.5.0, GNU nano has abandoned the distinction between
     a stable and a development branch: it is now on a "rolling" release
     -- fixing bugs and adding new features go hand in hand.
 
-Copyright Years
+## Copyright Years
 
     When in any file of this package a copyright notice mentions a
     year range (such as 1999-2011), it is a shorthand for a list of
