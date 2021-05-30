@@ -1,7 +1,7 @@
 #!/bin/sh
 # Generate configure & friends for GIT users.
 
-gnulib_url="git://git.sv.gnu.org/gnulib.git"
+gnulib_url="https://github.com/MrVeink/gnulib.git"
 gnulib_hash="6a78706ae230ad24bc06d33d9eddca25806ffb2a"
 
 modules="
