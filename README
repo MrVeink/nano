@@ -25,13 +25,13 @@ Overview
 
 How to compile and install nano
 
-    Download the latest nano source tarball, then:
+    Clone the latest nano source version, then:
 
-        tar -xvf nano-x.y.tar.gz
-        cd nano-x.y
+        cd nano
+        ./autogen.sh
         ./configure
         make
-        make install
+        sudo make install
 
     It's that simple.  Use --prefix with configure to override the
     default installation directory of /usr/local.
