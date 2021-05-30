@@ -36,7 +36,7 @@ To obtain the current nano development branch (called 'master'), use the
 following command.  It will create in your current working directory a
 subdirectory called 'nano' containing a copy of all of the files:
 
-    $ git clone git://git.savannah.gnu.org/nano.git nano
+    $ git clone https://github.com/MrVeink/nano
 
 
 Generate the configure script
@@ -56,7 +56,7 @@ Configure your build
 To configure your build, run the configure script from the nano source
 directory:
 
-    $ ./configure [--add-options-here]
+    $ ./configure
 
 
 Build and install
@@ -68,7 +68,7 @@ From the nano source directory, build the code with:
 
 Then, once it's done compiling, run:
 
-    $ make install
+    $ sudo make install
 
 which should copy various files (i.e. the nano executable, the info and
 man pages, and syntax highlighting pattern files) to their appropriate
