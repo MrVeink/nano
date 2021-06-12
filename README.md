@@ -1,6 +1,7 @@
-
 #          GNU nano -- a simple editor, inspired by Pico
-
+<p align="center">
+<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-GPLv3-blue.svg"></a> 
+    
 ## Overview
 
     The nano project was started because of a few "problems" with the
